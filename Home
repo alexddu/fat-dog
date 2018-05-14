@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head> <link rel="icon" href="">
+<meta charset="UTF-8">
+<title>Alex's Website 2.0</title>
+</head>
+<body>
+
+<style>
+body {
+    background-image: url(""); 
+    background-attachment: scroll; 
+    background-repeat: repeat-y | repeat-x;
+}
+@font-face {
+font-family: Verdana;
+<!-- src: url(TitilliumText22L006.otf);> --> 
+}
+.button:hover{
+    opacity:0.7;
+}
+</style> 
